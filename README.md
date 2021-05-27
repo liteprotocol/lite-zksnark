@@ -1,1 +1,1 @@
-# tron-zksnark
+# lite-zksnark
